@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751419822276",
+    "firebase_url": "https://openfire-a345e.firebaseio.com",
+    "project_id": "openfire-a345e",
+    "storage_bucket": "openfire-a345e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751419822276:android:6c6ae5756c043da2",
+        "android_client_info": {
+          "package_name": "com.example.myprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751419822276-hnpkmtc60bbpvhg8k9hbjtgkv3qh8e1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myprogram",
+            "certificate_hash": "b2045e2eb46feec76395672168d5eacbcb3a44fc"
+          }
+        },
+        {
+          "client_id": "751419822276-i45it797eei5a9o15mp9o5bregu5trhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9mX_zv8VPA2fkTYaEwk3VcNnYMo7p3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751419822276-i45it797eei5a9o15mp9o5bregu5trhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
